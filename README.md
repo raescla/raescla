@@ -6,6 +6,7 @@
 - 📫 Para entrar em contato comigo: raescla.ribeiro@gmail.com
 - 😄 Meus pronomes são: ela/dela
 - ⚡ Uma curiosidade sobre mim é que eu nunca conheci e provavelmente nunca vou conhecer uma xará 
+
 ## Outros Contatos:
 
 <div>
