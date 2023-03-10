@@ -1,5 +1,5 @@
 # Oi, meu nome é Raescla!
-
+      
 - 🔭 Atualmente estou trabalhando na Alura Start e na Secretaria Municipal de Eudcação de Manaus
 - 🌱 Estou estudando a formação **A partir do zero: iniciante em programação** na Alura
 - 👯 Procuro contribuir com grupos de pesquisa e ativismo social que dialoguem sobre educação e tecnologia
